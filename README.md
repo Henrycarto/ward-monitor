@@ -1,5 +1,7 @@
 # Ward 4B monitor
 
+Live: https://ward-monitor.vercel.app
+
 A ward early-warning monitor for the night shift. It answers the question a nurse
 covering twelve beds actually has: who is getting worse, and why.
 
