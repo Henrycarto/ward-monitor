@@ -51,6 +51,9 @@ URL to open at any time between 18:00 and 04:00.
 The pulse waveform uses the same two-wave pulse shape as the tests for my
 [pulse monitor firmware](https://github.com/Henrycarto/pulse-monitor-avr).
 
+Bed 3's whole admission, including what the team did that night, is in
+[patient-timeline](https://github.com/Henrycarto/patient-timeline).
+
 ## Design
 
 - **Typeface:** Atkinson Hyperlegible Next, designed by the Braille Institute for low-vision
