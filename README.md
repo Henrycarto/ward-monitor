@@ -54,6 +54,9 @@ The pulse waveform uses the same two-wave pulse shape as the tests for my
 Bed 3's whole admission, including what the team did that night, is in
 [patient-timeline](https://github.com/Henrycarto/patient-timeline).
 
+The whole night, replayed in a minute and handed over in sixty seconds, is in
+[shift-replay](https://github.com/Henrycarto/shift-replay).
+
 ## Design
 
 - **Typeface:** Atkinson Hyperlegible Next, designed by the Braille Institute for low-vision
